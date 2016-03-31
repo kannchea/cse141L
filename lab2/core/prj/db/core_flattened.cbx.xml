@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="core_flattened">
+		<CBX_INST_ENTRY INSTANCE_NAME="|core_flattened|core:core1|instr_mem:imem|altsyncram:mem[0].opcode[4]__1" CBX_FILE_NAME="altsyncram_gg81.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

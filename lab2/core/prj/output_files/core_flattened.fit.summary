@@ -1,0 +1,16 @@
+Fitter Status : Successful - Fri Feb 26 15:40:47 2016
+Quartus II 64-Bit Version : 14.0.0 Build 200 06/17/2014 SJ Full Version
+Revision Name : core_flattened
+Top-level Entity Name : core_flattened
+Family : Cyclone IV E
+Device : EP4CE40F29C6
+Timing Models : Final
+Total logic elements : 4,778 / 39,600 ( 12 % )
+    Total combinational functions : 3,915 / 39,600 ( 10 % )
+    Dedicated logic registers : 2,069 / 39,600 ( 5 % )
+Total registers : 2069
+Total pins : 272 / 533 ( 51 % )
+Total virtual pins : 0
+Total memory bits : 16,384 / 1,161,216 ( 1 % )
+Embedded Multiplier 9-bit elements : 0 / 232 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )
